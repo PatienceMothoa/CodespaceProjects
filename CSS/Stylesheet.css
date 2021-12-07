@@ -6,9 +6,19 @@ body{
   
   header {
     text-align: center;
+    background-color: lightslategray;
+    margin: 0em;
+    padding: 1em;
   }
   
   footer {
-    background-color: #343330;
+    background-color: lightslategray;
     text-align: center;
   }
+
+aside {
+  background-color: #343330;
+  margin: 0em;
+  padding: 0.5em;
+  max-width: 10em;
+}
